@@ -1,0 +1,878 @@
+2016-06-08 10:54:00.175676 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:54:01.184569 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:54:02.188853 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:54:03.197762 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:54:04.206179 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:54:05.212604 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:54:06.215328 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:54:07.218601 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:54:08.222809 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:54:09.225821 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:54:10.233636 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:54:11.238380 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:54:12.499975 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:54:13.539618 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:54:14.546163 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:54:15.553389 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:54:16.559606 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:54:17.569877 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:54:18.579294 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:54:19.585802 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:54:19.956580 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:54:19.956900 [ERROR] [download_helper.cc:419] Unrecognized URI or unsupported protocol: google.com
+2016-06-08 10:54:19.956952 [DEBUG] [RpcMethod.cc:101] Exception caught
+Exception: [RpcMethodImpl.cc:256] errorCode=1 No URI to download.
+2016-06-08 10:54:21.005076 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:54:22.009472 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:54:23.014088 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:54:24.017410 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:54:25.378185 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:54:26.426445 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:54:27.437401 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:54:28.446310 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:54:29.454761 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:54:30.461667 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:54:31.468363 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:54:32.474468 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:54:33.480535 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:54:34.491536 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:54:35.123677 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:54:35.124085 [DEBUG] [RequestGroupMan.cc:573] 1 RequestGroup(s) added.
+2016-06-08 10:54:35.124159 [DEBUG] [AbstractCommand.cc:184] CUID#11 - socket: read:0, write:0, hup:0, err:0
+2016-06-08 10:54:35.124190 [DEBUG] [FeedbackURISelector.cc:162] Selected from normCands
+2016-06-08 10:54:35.124200 [DEBUG] [FeedbackURISelector.cc:84] FeedbackURISelector selected https://www.google.com
+2016-06-08 10:54:35.124220 [DEBUG] [AbstractCommand.cc:184] CUID#11 - socket: read:0, write:0, hup:0, err:0
+2016-06-08 10:54:35.137517 [INFO] [AbstractCommand.cc:808] CUID#11 - Name resolution complete: www.google.com -> 74.125.196.106, 74.125.196.103, 74.125.196.99, 74.125.196.105, 74.125.196.104, 74.125.196.147
+2016-06-08 10:54:35.138316 [INFO] [HttpInitiateConnectionCommand.cc:123] CUID#11 - Connecting to 74.125.196.106:443
+2016-06-08 10:54:35.138837 [DEBUG] [AbstractCommand.cc:184] CUID#11 - socket: read:0, write:0, hup:0, err:0
+2016-06-08 10:54:35.154695 [DEBUG] [AbstractCommand.cc:184] CUID#11 - socket: read:0, write:1, hup:0, err:0
+2016-06-08 10:54:35.154770 [DEBUG] [AbstractCommand.cc:184] CUID#11 - socket: read:0, write:1, hup:0, err:0
+2016-06-08 10:54:35.154781 [DEBUG] [SocketCore.cc:926] Creating TLS session
+2016-06-08 10:54:35.172100 [DEBUG] [AppleTLSSession.cc:305] Removing blocked cipher suite: TLS_ECDHE_ECDSA_WITH_3DES_EDE_CBC_SHA
+2016-06-08 10:54:35.172129 [DEBUG] [AppleTLSSession.cc:305] Removing blocked cipher suite: TLS_ECDHE_RSA_WITH_3DES_EDE_CBC_SHA
+2016-06-08 10:54:35.172142 [DEBUG] [AppleTLSSession.cc:305] Removing blocked cipher suite: TLS_ECDH_ECDSA_WITH_3DES_EDE_CBC_SHA
+2016-06-08 10:54:35.172154 [DEBUG] [AppleTLSSession.cc:305] Removing blocked cipher suite: TLS_ECDH_RSA_WITH_3DES_EDE_CBC_SHA
+2016-06-08 10:54:35.172166 [DEBUG] [AppleTLSSession.cc:305] Removing blocked cipher suite: SSL_DHE_RSA_WITH_3DES_EDE_CBC_SHA
+2016-06-08 10:54:35.172177 [DEBUG] [AppleTLSSession.cc:305] Removing blocked cipher suite: SSL_RSA_WITH_3DES_EDE_CBC_SHA
+2016-06-08 10:54:35.172187 [DEBUG] [AppleTLSSession.cc:305] Removing blocked cipher suite: SSL_RSA_WITH_RC4_128_MD5
+2016-06-08 10:54:35.172194 [DEBUG] [AppleTLSSession.cc:305] Removing blocked cipher suite: TLS_DH_anon_WITH_AES_256_GCM_SHA384
+2016-06-08 10:54:35.172201 [DEBUG] [AppleTLSSession.cc:305] Removing blocked cipher suite: TLS_DH_anon_WITH_AES_128_GCM_SHA256
+2016-06-08 10:54:35.172208 [DEBUG] [AppleTLSSession.cc:305] Removing blocked cipher suite: TLS_DH_anon_WITH_AES_128_CBC_SHA256
+2016-06-08 10:54:35.172214 [DEBUG] [AppleTLSSession.cc:305] Removing blocked cipher suite: TLS_DH_anon_WITH_AES_256_CBC_SHA256
+2016-06-08 10:54:35.172221 [DEBUG] [AppleTLSSession.cc:305] Removing blocked cipher suite: TLS_DH_anon_WITH_AES_128_CBC_SHA
+2016-06-08 10:54:35.172228 [DEBUG] [AppleTLSSession.cc:305] Removing blocked cipher suite: TLS_DH_anon_WITH_AES_256_CBC_SHA
+2016-06-08 10:54:35.172234 [DEBUG] [AppleTLSSession.cc:305] Removing blocked cipher suite: SSL_DH_anon_WITH_RC4_128_MD5
+2016-06-08 10:54:35.172241 [DEBUG] [AppleTLSSession.cc:305] Removing blocked cipher suite: SSL_DH_anon_WITH_3DES_EDE_CBC_SHA
+2016-06-08 10:54:35.172248 [DEBUG] [AppleTLSSession.cc:305] Removing blocked cipher suite: TLS_ECDHE_ECDSA_WITH_NULL_SHA
+2016-06-08 10:54:35.172255 [DEBUG] [AppleTLSSession.cc:305] Removing blocked cipher suite: TLS_ECDHE_RSA_WITH_NULL_SHA
+2016-06-08 10:54:35.172262 [DEBUG] [AppleTLSSession.cc:305] Removing blocked cipher suite: TLS_ECDH_ECDSA_WITH_NULL_SHA
+2016-06-08 10:54:35.172268 [DEBUG] [AppleTLSSession.cc:305] Removing blocked cipher suite: TLS_ECDH_RSA_WITH_NULL_SHA
+2016-06-08 10:54:35.172275 [DEBUG] [AppleTLSSession.cc:305] Removing blocked cipher suite: TLS_PSK_WITH_AES_256_CBC_SHA384
+2016-06-08 10:54:35.172282 [DEBUG] [AppleTLSSession.cc:305] Removing blocked cipher suite: TLS_PSK_WITH_AES_128_CBC_SHA256
+2016-06-08 10:54:35.172289 [DEBUG] [AppleTLSSession.cc:305] Removing blocked cipher suite: TLS_PSK_WITH_AES_256_CBC_SHA
+2016-06-08 10:54:35.172297 [DEBUG] [AppleTLSSession.cc:305] Removing blocked cipher suite: TLS_PSK_WITH_AES_128_CBC_SHA
+2016-06-08 10:54:35.172304 [DEBUG] [AppleTLSSession.cc:305] Removing blocked cipher suite: TLS_PSK_WITH_RC4_128_SHA
+2016-06-08 10:54:35.172311 [DEBUG] [AppleTLSSession.cc:305] Removing blocked cipher suite: TLS_PSK_WITH_3DES_EDE_CBC_SHA
+2016-06-08 10:54:35.172317 [DEBUG] [AppleTLSSession.cc:305] Removing blocked cipher suite: TLS_PSK_WITH_NULL_SHA384
+2016-06-08 10:54:35.172324 [DEBUG] [AppleTLSSession.cc:305] Removing blocked cipher suite: TLS_PSK_WITH_NULL_SHA256
+2016-06-08 10:54:35.172331 [DEBUG] [AppleTLSSession.cc:305] Removing blocked cipher suite: TLS_PSK_WITH_NULL_SHA
+2016-06-08 10:54:35.172347 [DEBUG] [AppleTLSSession.cc:305] Removing blocked cipher suite: TLS_RSA_WITH_NULL_SHA256
+2016-06-08 10:54:35.172355 [DEBUG] [AppleTLSSession.cc:305] Removing blocked cipher suite: SSL_RSA_WITH_NULL_SHA
+2016-06-08 10:54:35.172361 [DEBUG] [AppleTLSSession.cc:305] Removing blocked cipher suite: SSL_RSA_WITH_NULL_MD5
+2016-06-08 10:54:35.172368 [INFO] [AppleTLSSession.cc:443] AppleTLS: Enabled suite TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384
+2016-06-08 10:54:35.172375 [INFO] [AppleTLSSession.cc:443] AppleTLS: Enabled suite TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256
+2016-06-08 10:54:35.172381 [INFO] [AppleTLSSession.cc:443] AppleTLS: Enabled suite TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA384
+2016-06-08 10:54:35.172387 [INFO] [AppleTLSSession.cc:443] AppleTLS: Enabled suite TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256
+2016-06-08 10:54:35.172394 [INFO] [AppleTLSSession.cc:443] AppleTLS: Enabled suite TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA
+2016-06-08 10:54:35.172400 [INFO] [AppleTLSSession.cc:443] AppleTLS: Enabled suite TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA
+2016-06-08 10:54:35.172406 [INFO] [AppleTLSSession.cc:443] AppleTLS: Enabled suite TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+2016-06-08 10:54:35.172413 [INFO] [AppleTLSSession.cc:443] AppleTLS: Enabled suite TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+2016-06-08 10:54:35.172419 [INFO] [AppleTLSSession.cc:443] AppleTLS: Enabled suite TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384
+2016-06-08 10:54:35.172426 [INFO] [AppleTLSSession.cc:443] AppleTLS: Enabled suite TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256
+2016-06-08 10:54:35.172432 [INFO] [AppleTLSSession.cc:443] AppleTLS: Enabled suite TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA
+2016-06-08 10:54:35.172439 [INFO] [AppleTLSSession.cc:443] AppleTLS: Enabled suite TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA
+2016-06-08 10:54:35.172445 [INFO] [AppleTLSSession.cc:443] AppleTLS: Enabled suite TLS_ECDH_ECDSA_WITH_AES_256_GCM_SHA384
+2016-06-08 10:54:35.172452 [INFO] [AppleTLSSession.cc:443] AppleTLS: Enabled suite TLS_ECDH_ECDSA_WITH_AES_128_GCM_SHA256
+2016-06-08 10:54:35.172458 [INFO] [AppleTLSSession.cc:443] AppleTLS: Enabled suite TLS_ECDH_ECDSA_WITH_AES_256_CBC_SHA384
+2016-06-08 10:54:35.172465 [INFO] [AppleTLSSession.cc:443] AppleTLS: Enabled suite TLS_ECDH_ECDSA_WITH_AES_128_CBC_SHA256
+2016-06-08 10:54:35.172471 [INFO] [AppleTLSSession.cc:443] AppleTLS: Enabled suite TLS_ECDH_ECDSA_WITH_AES_256_CBC_SHA
+2016-06-08 10:54:35.172477 [INFO] [AppleTLSSession.cc:443] AppleTLS: Enabled suite TLS_ECDH_ECDSA_WITH_AES_128_CBC_SHA
+2016-06-08 10:54:35.172484 [INFO] [AppleTLSSession.cc:443] AppleTLS: Enabled suite TLS_ECDH_RSA_WITH_AES_256_GCM_SHA384
+2016-06-08 10:54:35.172490 [INFO] [AppleTLSSession.cc:443] AppleTLS: Enabled suite TLS_ECDH_RSA_WITH_AES_128_GCM_SHA256
+2016-06-08 10:54:35.172497 [INFO] [AppleTLSSession.cc:443] AppleTLS: Enabled suite TLS_ECDH_RSA_WITH_AES_256_CBC_SHA384
+2016-06-08 10:54:35.172503 [INFO] [AppleTLSSession.cc:443] AppleTLS: Enabled suite TLS_ECDH_RSA_WITH_AES_128_CBC_SHA256
+2016-06-08 10:54:35.172509 [INFO] [AppleTLSSession.cc:443] AppleTLS: Enabled suite TLS_ECDH_RSA_WITH_AES_256_CBC_SHA
+2016-06-08 10:54:35.172516 [INFO] [AppleTLSSession.cc:443] AppleTLS: Enabled suite TLS_ECDH_RSA_WITH_AES_128_CBC_SHA
+2016-06-08 10:54:35.172522 [INFO] [AppleTLSSession.cc:443] AppleTLS: Enabled suite TLS_DHE_RSA_WITH_AES_256_GCM_SHA384
+2016-06-08 10:54:35.172529 [INFO] [AppleTLSSession.cc:443] AppleTLS: Enabled suite TLS_DHE_RSA_WITH_AES_128_GCM_SHA256
+2016-06-08 10:54:35.172535 [INFO] [AppleTLSSession.cc:443] AppleTLS: Enabled suite TLS_DHE_RSA_WITH_AES_256_CBC_SHA256
+2016-06-08 10:54:35.172541 [INFO] [AppleTLSSession.cc:443] AppleTLS: Enabled suite TLS_DHE_RSA_WITH_AES_128_CBC_SHA256
+2016-06-08 10:54:35.172548 [INFO] [AppleTLSSession.cc:443] AppleTLS: Enabled suite TLS_DHE_RSA_WITH_AES_256_CBC_SHA
+2016-06-08 10:54:35.172554 [INFO] [AppleTLSSession.cc:443] AppleTLS: Enabled suite TLS_DHE_RSA_WITH_AES_128_CBC_SHA
+2016-06-08 10:54:35.172560 [INFO] [AppleTLSSession.cc:443] AppleTLS: Enabled suite TLS_RSA_WITH_AES_256_GCM_SHA384
+2016-06-08 10:54:35.172567 [INFO] [AppleTLSSession.cc:443] AppleTLS: Enabled suite TLS_RSA_WITH_AES_128_GCM_SHA256
+2016-06-08 10:54:35.172577 [INFO] [AppleTLSSession.cc:443] AppleTLS: Enabled suite TLS_RSA_WITH_AES_256_CBC_SHA256
+2016-06-08 10:54:35.172583 [INFO] [AppleTLSSession.cc:443] AppleTLS: Enabled suite TLS_RSA_WITH_AES_128_CBC_SHA256
+2016-06-08 10:54:35.172590 [INFO] [AppleTLSSession.cc:443] AppleTLS: Enabled suite TLS_RSA_WITH_AES_256_CBC_SHA
+2016-06-08 10:54:35.172596 [INFO] [AppleTLSSession.cc:443] AppleTLS: Enabled suite TLS_RSA_WITH_AES_128_CBC_SHA
+2016-06-08 10:54:35.172602 [INFO] [AppleTLSSession.cc:443] AppleTLS: Enabled suite TLS_ECDHE_ECDSA_WITH_RC4_128_SHA
+2016-06-08 10:54:35.172609 [INFO] [AppleTLSSession.cc:443] AppleTLS: Enabled suite TLS_ECDHE_RSA_WITH_RC4_128_SHA
+2016-06-08 10:54:35.172615 [INFO] [AppleTLSSession.cc:443] AppleTLS: Enabled suite TLS_ECDH_ECDSA_WITH_RC4_128_SHA
+2016-06-08 10:54:35.172622 [INFO] [AppleTLSSession.cc:443] AppleTLS: Enabled suite TLS_ECDH_RSA_WITH_RC4_128_SHA
+2016-06-08 10:54:35.172628 [INFO] [AppleTLSSession.cc:443] AppleTLS: Enabled suite SSL_RSA_WITH_RC4_128_SHA
+2016-06-08 10:54:35.172647 [DEBUG] [SocketCore.cc:946] TLS Handshaking
+2016-06-08 10:54:35.189805 [DEBUG] [AbstractCommand.cc:184] CUID#11 - socket: read:1, write:0, hup:0, err:0
+2016-06-08 10:54:35.233866 [DEBUG] [AbstractCommand.cc:184] CUID#11 - socket: read:1, write:0, hup:0, err:0
+2016-06-08 10:54:35.234050 [INFO] [AppleTLSSession.cc:746] AppleTLS: Connected to www.google.com with TLSv1.2 (TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256)
+2016-06-08 10:54:35.234083 [DEBUG] [SocketCore.cc:986] Securely connected to www.google.com (74.125.196.106:443)
+2016-06-08 10:54:35.234166 [INFO] [HttpConnection.cc:118] CUID#11 - Requesting:
+GET / HTTP/1.1
+User-Agent: pinwheel
+Accept: */*,application/metalink4+xml,application/metalink+xml
+Host: www.google.com
+Want-Digest: SHA-512;q=1, SHA-256;q=1, SHA;q=0.1
+
+
+2016-06-08 10:54:35.276236 [DEBUG] [AbstractCommand.cc:184] CUID#11 - socket: read:1, write:0, hup:0, err:0
+2016-06-08 10:54:35.276317 [INFO] [HttpConnection.cc:153] CUID#11 - Response received:
+HTTP/1.1 200 OK
+Date: Wed, 08 Jun 2016 14:54:29 GMT
+Expires: -1
+Cache-Control: private, max-age=0
+Content-Type: text/html; charset=ISO-8859-1
+P3P: CP="This is not a P3P policy! See https://www.google.com/support/accounts/answer/151657?hl=en for more info."
+Server: gws
+X-XSS-Protection: 1; mode=block
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: NID=79=RbEM-PGMgLb5cGpp0M4sAY5DwdMLHc7_vE4vIy3KGA6GcfaXofyzmLdtjvyX-wdWiY9FBNlkWJjDlo8SgYkZn2hPQehMcnFdinQe82lmF8EJMEXCj8H9BLhoBpstqvWcheGaXTkGcaNiyg; expires=Thu, 08-Dec-2016 14:54:29 GMT; path=/; domain=.google.com; HttpOnly
+Alternate-Protocol: 443:quic
+Alt-Svc: quic=":443"; ma=2592000; v="34,33,32,31,30,29,28,27,26,25"
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+
+2016-06-08 10:54:35.276373 [DEBUG] [RequestGroup.cc:982] Finding PreDownloadHandler for path /Users/jclabpro/Downloads/index.html.
+2016-06-08 10:54:35.276389 [DEBUG] [RequestGroup.cc:996] No PreDownloadHandler found.
+2016-06-08 10:54:35.277548 [DEBUG] [SegmentMan.cc:141] Attach segment#0 to CUID#11.
+2016-06-08 10:54:35.277568 [DEBUG] [SegmentMan.cc:167] index=0, length=0, segmentLength=0, writtenLength=0
+2016-06-08 10:54:35.277601 [DEBUG] [AbstractCommand.cc:184] CUID#11 - socket: read:1, write:0, hup:0, err:0
+2016-06-08 10:54:35.277639 [DEBUG] [AbstractCommand.cc:184] CUID#11 - socket: read:1, write:0, hup:0, err:0
+2016-06-08 10:54:35.277671 [DEBUG] [AbstractCommand.cc:184] CUID#11 - socket: read:1, write:0, hup:0, err:0
+2016-06-08 10:54:35.277719 [DEBUG] [AbstractCommand.cc:184] CUID#11 - socket: read:1, write:0, hup:0, err:0
+2016-06-08 10:54:35.277752 [DEBUG] [AbstractCommand.cc:184] CUID#11 - socket: read:1, write:0, hup:0, err:0
+2016-06-08 10:54:35.277790 [DEBUG] [AbstractCommand.cc:184] CUID#11 - socket: read:1, write:0, hup:0, err:0
+2016-06-08 10:54:35.277815 [DEBUG] [AbstractCommand.cc:184] CUID#11 - socket: read:1, write:0, hup:0, err:0
+2016-06-08 10:54:35.277856 [DEBUG] [AbstractCommand.cc:184] CUID#11 - socket: read:1, write:0, hup:0, err:0
+2016-06-08 10:54:35.277883 [INFO] [DownloadCommand.cc:242] CUID#11 - The download for one segment completed successfully.
+2016-06-08 10:54:35.277907 [INFO] [DownloadEngine.cc:307] Pool socket for 74.125.196.106(443)
+2016-06-08 10:54:35.277934 [DEBUG] [RequestGroup.cc:921] GID#7abe694eee794276 - Request queue check
+2016-06-08 10:54:35.277992 [NOTICE] [RequestGroup.cc:1153] Download complete: /Users/jclabpro/Downloads/index.html
+2016-06-08 10:54:35.278021 [DEBUG] [RequestGroup.cc:1004] Finding PostDownloadHandler for path /Users/jclabpro/Downloads/index.html.
+2016-06-08 10:54:35.278029 [DEBUG] [RequestGroup.cc:1017] No PostDownloadHandler found.
+2016-06-08 10:54:35.278037 [DEBUG] [RequestGroup.cc:1109] GID#7abe694eee794276 - Creating DownloadResult.
+2016-06-08 10:54:35.278086 [DEBUG] [RequestGroupMan.cc:464] 1 RequestGroup(s) deleted.
+2016-06-08 10:54:36.164710 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:54:37.166426 [DEBUG] [DownloadEngine.cc:319] Scaning SocketPool and erasing timed out entry.
+2016-06-08 10:54:37.166456 [DEBUG] [DownloadEngine.cc:327] 0 entries removed.
+2016-06-08 10:54:37.194611 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:54:38.200006 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:54:39.203976 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:54:40.210115 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:54:41.214302 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:54:42.219732 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:54:43.226432 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:54:44.230379 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:54:45.237043 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:54:46.241427 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:54:47.245266 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:54:48.252422 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:54:49.256328 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:54:50.260066 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:54:51.267146 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:54:52.706126 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:54:54.707348 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:54:56.708794 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:55:07.734097 [DEBUG] [DownloadEngine.cc:319] Scaning SocketPool and erasing timed out entry.
+2016-06-08 10:55:07.734150 [DEBUG] [DownloadEngine.cc:327] 1 entries removed.
+2016-06-08 10:55:07.735436 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:55:18.016650 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:55:21.720708 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:55:31.830754 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:55:41.180481 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:55:42.194869 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:55:43.198643 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:55:44.202284 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:55:45.205902 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:55:46.209706 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:55:47.213539 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:55:48.217731 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:55:49.221245 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:55:50.225344 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:55:51.228971 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:55:52.234294 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:55:53.238893 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:55:54.244138 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:55:55.249022 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:55:56.253768 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:55:57.261096 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:55:58.268436 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:55:59.271824 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:56:00.276496 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:56:01.279961 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:56:02.285126 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:56:03.289218 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:56:04.293186 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:56:05.302877 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:56:06.308803 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:56:07.312689 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:56:08.319534 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:56:09.323058 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:56:10.329606 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:56:11.336196 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:56:12.340784 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:56:13.344142 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:56:14.348368 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:56:15.355803 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:56:16.362251 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:56:17.711077 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:56:19.712728 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:56:21.712227 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:56:23.712425 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:56:25.712561 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:56:36.209721 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:56:40.535568 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:56:50.711564 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:56:55.318726 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:57:05.712590 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:57:15.848775 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:57:26.358718 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:57:27.368565 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:57:28.372632 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:57:29.376864 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:57:30.381447 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:57:31.710972 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:57:33.712509 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:57:35.715495 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:57:37.714576 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:57:39.714644 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:57:48.876211 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:57:49.884702 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:57:50.888358 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:57:51.891767 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:57:52.895362 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:57:53.898786 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:57:54.902350 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:57:55.905639 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:57:56.909160 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:57:57.912642 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:57:58.916788 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:57:59.920432 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:58:00.923588 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:58:01.926996 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:58:02.931037 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:58:03.934389 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:58:04.938226 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:58:05.941855 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:58:06.945173 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:58:07.949308 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:58:08.952959 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:58:09.956193 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:58:10.959715 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:58:11.963193 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:58:12.966684 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:58:14.710765 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:58:16.712267 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:58:18.710508 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:58:20.710940 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:58:32.220306 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:58:37.121059 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:58:38.715622 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:58:48.925298 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:58:53.468185 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:59:04.714832 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:59:09.015721 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:59:20.716100 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:59:29.965817 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:59:40.473621 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:59:42.384185 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 10:59:52.716600 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:00:03.225346 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:00:13.717537 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:00:23.834635 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:00:34.718658 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:00:45.227936 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:00:55.719473 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:01:06.228794 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:01:16.719386 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:01:26.827829 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:01:37.721235 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:01:48.720389 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:01:55.370548 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:01:57.573662 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:02:08.721098 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:02:19.227985 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:02:23.458106 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:02:34.721858 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:02:40.333883 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:02:42.339028 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:02:52.723050 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:03:02.832992 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:03:13.724308 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:03:15.752577 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:03:27.724152 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:03:31.821725 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:03:40.405391 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:03:50.724421 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:04:01.232821 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:04:11.726004 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:04:21.835462 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:04:32.727259 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:04:43.236749 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:04:53.727406 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:05:03.855978 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:05:14.731176 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:05:25.727700 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:05:36.731785 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:05:46.838238 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:05:57.731990 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:06:08.243406 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:06:18.729868 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:06:28.836367 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:06:39.344669 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:06:49.731393 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:06:55.334497 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:07:05.730979 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:07:16.732319 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:07:27.243936 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:07:37.734713 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:07:47.840821 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:07:58.734081 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:08:09.733605 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:08:20.734522 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:08:30.842887 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:08:41.734505 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:08:52.244035 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:09:02.736830 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:09:12.842594 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:09:23.738064 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:09:34.246543 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:09:44.738011 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:09:54.844336 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:10:05.738008 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:10:16.737591 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:10:27.245121 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:10:37.351982 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:10:47.738486 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:10:58.246138 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:11:08.740396 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:11:18.846670 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:11:29.740539 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:11:40.248614 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:11:50.740726 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:11:55.387964 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:12:05.900748 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:12:16.742293 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:12:27.250127 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:12:37.744054 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:12:48.743592 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:12:59.251269 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:13:09.743265 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:13:19.849303 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:13:30.745272 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:13:41.252770 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:13:51.366538 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:14:01.744856 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:14:12.252837 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:14:22.748438 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:14:32.867219 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:14:43.747392 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:14:54.256345 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:15:04.747941 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:15:14.854460 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:15:25.749320 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:15:36.256845 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:15:46.748339 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:15:56.854211 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:16:07.750063 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:16:18.257816 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:16:28.750317 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:16:38.856622 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:16:49.750783 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:16:55.354784 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:17:05.750765 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:17:15.860534 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:17:26.753001 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:17:37.261505 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:17:47.752069 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:17:57.857732 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:18:08.753827 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:18:19.753443 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:18:30.754938 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:18:39.182204 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:18:40.758606 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:18:51.267942 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:19:01.754727 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:19:12.755189 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:19:23.755979 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:19:34.755755 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:19:44.804863 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:19:54.906385 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:20:05.758569 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:20:16.757171 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:20:26.874530 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:20:37.759112 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:20:48.758354 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:20:59.758956 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:21:09.873064 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:21:20.763076 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:21:31.759977 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:21:42.762306 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:21:52.879204 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:21:55.383577 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:22:05.893100 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:22:16.764465 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:22:26.977223 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:22:37.077450 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:22:47.764028 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:22:58.271871 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:23:08.385343 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:23:18.763863 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:23:29.764390 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:23:40.272126 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:23:50.386312 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:24:00.765084 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:24:11.768180 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:24:22.277396 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:24:32.391506 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:24:42.766247 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:24:53.276153 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:25:03.768404 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:25:13.882631 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:25:24.770074 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:25:35.279170 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:25:45.768239 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:25:55.886140 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:26:06.769790 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:26:17.769476 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:26:38.772153 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:26:55.376116 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:27:15.771009 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:27:36.772893 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:27:55.686384 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:28:13.574234 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 11:28:13.733790 [INFO] [WebSocketInteractionCommand.cc:100] CUID#10 - WebSocket session terminated (Possibly due to EOF).
+2016-06-08 11:28:13.733840 [DEBUG] [WebSocketSessionMan.cc:64] WebSocket session removed.
+2016-06-08 12:21:18.959360 [INFO] [HttpListenCommand.cc:78] RPC: Accepted the connection from 127.0.0.1:56897.
+2016-06-08 12:21:18.966384 [INFO] [HttpServer.cc:187] HTTP Server received request
+GET /jsonrpc HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: 127.0.0.1:6800
+Origin: http://aria.local
+Cookie: beaker.session.id=549037fdb0dd62b25e5d899133d8f3ee
+Pragma: no-cache
+Cache-Control: no-cache
+Sec-WebSocket-Key: rkKjdsefZZFOlKncWnP90A==
+Sec-WebSocket-Version: 13
+Sec-WebSocket-Extensions: x-webkit-deflate-frame
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_4) AppleWebKit/601.5.17 (KHTML, like Gecko) Version/9.1 Safari/601.5.17
+
+
+2016-06-08 12:21:18.966424 [DEBUG] [HttpServer.cc:310] HTTP Server sends upgrade response:
+HTTP/1.1 101 Switching Protocols
+Upgrade: websocket
+Connection: Upgrade
+Sec-WebSocket-Accept: s57IzDFxSGRwly5JTD1u39UtEak=
+
+
+2016-06-08 12:21:18.966480 [INFO] [AbstractHttpServerResponseCommand.cc:118] CUID#12 - HttpServer: all response transmitted.
+2016-06-08 12:21:18.966531 [DEBUG] [WebSocketSessionMan.cc:57] WebSocket session added.
+2016-06-08 12:21:19.949174 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:21:21.042227 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:21:22.093549 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:21:23.103733 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:21:24.112330 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:21:25.126769 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:21:26.875282 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:21:28.874697 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:21:30.876451 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:21:32.874934 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:21:34.873756 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:21:36.874784 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:21:38.877677 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:21:40.874575 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:21:42.874676 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:21:44.877838 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:21:46.876714 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:21:48.874914 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:21:55.464653 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:22:05.877582 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:22:09.581687 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:22:13.588769 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:22:15.076452 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:22:22.065304 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:22:23.877347 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:22:28.076551 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:22:34.784121 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:22:44.202890 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:22:54.880831 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:23:06.878406 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:23:16.992797 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:23:27.881370 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:23:38.880401 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:23:48.987916 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:24:00.884079 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:24:12.880895 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:24:23.881293 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:24:33.987565 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:24:44.884938 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:24:54.995515 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:25:06.883823 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:25:18.883538 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:25:28.990257 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:25:39.883952 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:25:50.884377 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:26:01.470347 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:26:11.885458 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:26:23.884862 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:26:29.467355 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:26:39.885535 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:26:51.888173 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:26:55.485474 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:27:05.593409 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:27:15.887405 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:27:26.888002 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:27:36.994026 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:27:47.889389 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:27:58.888395 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:28:08.994267 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:28:19.889039 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:28:30.319573 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:28:40.419769 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:28:50.889959 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:29:01.892168 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:29:05.873646 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:29:16.891938 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:29:27.890774 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:29:33.078289 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:29:41.385834 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:29:46.902886 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:29:55.139077 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:30:02.338418 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:30:13.892515 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:30:16.322442 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:30:27.614269 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:30:29.053988 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:30:35.156171 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:30:36.161078 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:30:37.896229 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:30:39.894906 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:30:41.897843 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:30:43.893904 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:30:45.893334 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:30:51.214709 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:30:52.914068 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:31:04.895169 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:31:09.201483 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:31:20.894798 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:31:31.002649 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:31:39.944990 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:31:50.895821 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:31:55.497402 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:32:05.607016 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:32:15.650730 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:32:25.898308 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:32:36.897740 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:32:47.004113 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:32:57.899190 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:33:08.009953 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:33:18.899818 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:33:29.900400 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:33:39.422546 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:33:41.091013 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:33:52.899285 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:34:02.944204 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:34:13.055849 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:34:23.902701 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:34:34.901014 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:34:45.007270 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:34:49.987829 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:34:54.141446 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:34:55.902726 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:35:06.012332 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:35:16.903897 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:35:25.219807 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:35:29.785230 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:35:30.903073 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:35:35.049738 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:35:37.583352 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:35:41.249161 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:35:48.353898 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:35:49.904124 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:35:53.208423 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:35:54.904012 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:35:58.572194 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:36:06.622178 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:36:07.906636 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:36:14.502056 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:36:15.906160 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:36:20.953362 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:36:26.687144 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:36:36.906107 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:36:47.591128 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:36:50.953147 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:36:55.504759 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:37:06.906330 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:37:17.908487 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:37:28.014446 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:37:34.327286 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:37:38.395019 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:37:43.110100 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:37:44.909059 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:37:49.945508 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:37:51.907893 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:37:56.025468 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:38:06.138549 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:38:12.908083 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:38:24.906076 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:38:35.023417 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:38:45.912032 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:38:50.533960 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:39:00.910471 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:39:11.910438 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:39:18.882133 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:39:19.912032 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:39:26.692022 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:39:27.911068 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:39:32.003092 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:39:42.912442 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:39:53.914198 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:40:04.023567 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:40:07.530664 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:40:17.913022 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:40:21.496033 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:40:32.916394 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:40:43.915292 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:40:54.916438 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:41:02.193830 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:41:05.191205 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:41:06.914732 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:41:08.915072 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:41:10.915117 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:41:18.168181 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:41:20.430097 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:41:21.915314 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:41:24.578548 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:41:30.148193 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:41:31.914965 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:41:42.916380 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:41:53.916729 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:41:55.917178 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:41:57.918112 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:41:59.916055 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:42:06.305175 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:42:11.115082 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:42:13.912416 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:42:22.917073 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:42:26.748309 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:42:36.917578 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:42:47.918204 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:42:53.856352 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:42:56.207426 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:43:05.486024 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:43:09.562039 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:43:10.919163 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:43:13.779336 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:43:14.919288 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:43:19.380869 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:43:20.918798 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:43:31.012442 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:43:41.113193 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:43:51.919891 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:44:02.920734 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:44:13.026145 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:44:23.921003 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:44:34.921255 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:44:45.027519 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:44:55.922491 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:45:06.922843 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:45:17.028754 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:45:27.923483 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:45:38.923364 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:45:49.030499 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:45:58.923277 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:46:09.925866 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:46:21.925160 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:46:32.031687 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:46:42.925464 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:46:47.414677 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:46:55.551711 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:46:58.972495 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:47:00.926025 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:47:11.926190 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:47:17.189553 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:47:18.926692 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:47:23.058006 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:47:24.929764 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:47:27.667505 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:47:37.927168 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:47:48.032600 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:47:52.986450 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:47:56.859738 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:48:04.514846 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:48:07.065747 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:48:08.928379 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:48:10.928578 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:48:21.785027 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:48:24.797998 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:48:29.180560 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:48:37.630685 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:48:47.742743 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:48:48.930385 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:48:59.930233 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:49:09.960653 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:49:17.300403 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:49:23.649418 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:49:26.523516 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:49:36.932868 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:49:42.878317 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:49:45.927102 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:49:47.928755 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:49:53.297982 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:49:54.932916 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:49:59.942041 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:50:05.298822 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:50:15.037143 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:50:17.926038 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:50:23.262631 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:50:33.933329 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:50:37.976316 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:50:39.934203 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:50:43.998889 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:50:50.534083 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:50:53.259205 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:51:01.044328 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:51:02.933863 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:51:13.042729 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:51:23.937519 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:51:34.935288 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:51:45.041479 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:51:50.304222 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:51:52.947761 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:51:55.517296 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:51:59.978281 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:52:01.938023 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:52:04.475502 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:52:05.936603 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:52:08.411831 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:52:18.936656 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:52:24.315842 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:52:28.241896 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:52:38.937345 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:52:41.383414 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:52:43.557611 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:52:46.113288 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:52:54.331583 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:52:55.938213 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:53:00.768929 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:53:01.940707 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:53:06.324453 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:53:07.998772 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:53:12.657116 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:53:13.940032 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:53:18.034143 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:53:26.051241 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:53:35.541437 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:53:38.715789 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:53:45.387613 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:53:48.519499 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:53:56.948084 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:53:59.238620 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:54:04.025784 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:54:05.942068 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:54:08.494964 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:54:09.942833 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:54:14.298903 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:54:24.940955 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:54:35.942480 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:54:38.827129 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:54:46.109848 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:54:54.879313 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:55:04.942167 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:55:15.052909 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:55:18.491612 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:55:27.793910 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:55:29.808480 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:55:38.320672 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:55:43.279735 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:55:53.944225 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:56:04.944745 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:56:10.362226 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:56:20.947115 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:56:32.945401 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:56:41.408258 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:56:43.063243 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:56:44.946115 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:56:46.945640 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:56:50.287882 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:56:51.945679 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:56:55.546051 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:57:01.991624 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:57:12.098820 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:57:22.971644 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:57:31.863391 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:57:32.988739 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:57:38.808552 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:57:39.947422 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:57:50.060508 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:58:00.948682 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:58:11.948611 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:58:22.057506 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:58:26.450127 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:58:31.649595 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:58:33.956230 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:58:44.053008 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:58:49.818705 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:58:59.949957 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:59:04.660058 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:59:14.950952 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:59:17.012235 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:59:20.077214 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:59:22.439311 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:59:23.952401 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:59:27.779643 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:59:37.951749 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:59:48.108287 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:59:56.859416 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 12:59:57.953477 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 13:00:02.209014 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 13:00:10.046250 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 13:00:11.952415 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 13:00:13.954962 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 13:00:16.780227 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 13:00:17.953183 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 13:00:21.747338 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 13:00:27.830118 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 13:00:37.954238 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 13:00:49.954232 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 13:00:53.487869 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 13:01:03.955238 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 13:01:14.954988 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 13:01:25.060461 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 13:01:29.552393 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 13:01:35.755598 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 13:01:39.154708 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 13:01:49.268078 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 13:01:53.498484 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 13:01:58.804629 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 13:02:00.891922 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 13:02:02.132805 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 13:02:03.958899 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 13:02:05.958785 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 13:02:07.959606 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 13:02:09.958652 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 13:02:12.178524 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 13:02:19.400452 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall
+2016-06-08 13:02:19.492781 [INFO] [WebSocketInteractionCommand.cc:100] CUID#12 - WebSocket session terminated (Possibly due to EOF).
+2016-06-08 13:02:19.492829 [DEBUG] [WebSocketSessionMan.cc:64] WebSocket session removed.
