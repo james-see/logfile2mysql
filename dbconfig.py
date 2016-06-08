@@ -9,3 +9,5 @@ Requirements: MySQL and Python. pip3 install mysqlclient or pip install MySQL-Py
 
 userconfig = 'your user here'
 userpass = 'your pass here'
+pathconfig = 'your /Users/you/project/ here'
+logfileconfig = 'your logfile.txt name here'
