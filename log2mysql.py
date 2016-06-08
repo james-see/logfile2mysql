@@ -15,8 +15,8 @@ except ImportError as e:
     exit('need to install pymysql via pip install pymysql first...')
 
 # globals - set all your info here
-pathtolog = '/Users/jclabpro/projects/log2mysql/'
-logfilename = 'log.txt'
+pathtolog = pathconfig
+logfilename = logfileconfig
 dbuser = userconfig  # from dbconfig.py
 dbpassword = passconfig  # from dbconfig.py
 charsetdefault = 'utf8mb4'
