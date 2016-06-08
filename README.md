@@ -1,6 +1,13 @@
 # logfile2mysql
 parse your log file and store it into mysql
 
+## Log file format
+
+The line format in this case is from Aria2web like this:
+`2016-06-08 10:54:10.233636 [INFO] [rpc_helper.cc:103] Executing RPC method system.multicall`
+
+You will need to reformat your parser as necessary and adjust the table fields as necessary for your logs.
+
 ## Install
 
 1. Clone into a handy location.
